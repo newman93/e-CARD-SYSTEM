@@ -1,0 +1,115 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-02-03, 19:14:40
+    Author     : Adrian
+*/
+
+.enjoy-css {
+  display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  position: relative;
+  cursor: pointer;
+  top: 0;
+  padding: 0 22px;
+  border: 4px solid #c0a16b;
+  font: normal normal bold 20px/50px Arial, Helvetica, sans-serif;
+  color: #c0a16b;
+  text-align: center;
+  text-transform: uppercase;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+}
+
+.enjoy-css:hover {
+  color: #ffffff;
+  background: #c0a16b;
+}
+
+.line {
+    height: 0;
+    border: none; 
+    border-top: 3px solid #ffffff;
+}
+
+.accapit {
+    font-weight: bold;
+}
+
+body {
+    background-color: #e6e6e6;
+    color: #87725d;
+}
+
+a {
+    color: #87725d;
+}
+
+a:hover {
+    color: #f96102;
+    text-decoration: none; 
+}
+
+#left {
+    background-color: #ddd7d0;
+    height: 100%;
+}
+
+#header {
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+#home {
+    padding-left: 20px;
+}
+
+#categories {
+    padding-left: 20px;
+}
+
+#search {
+    padding-left: 20px;
+}
+
+#meta {
+    padding-left: 20px;
+}
+
+#footer {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+#dashboard {
+    padding-left: 20px;
+}
+
+#category {
+    padding-left: 20px;
+}
+
+#media {
+    padding-left: 20px;
+}
+
+.button:hover {
+    color: #f96102;
+    cursor: hand; 
+    cursor: pointer;
+}
+
+.pad {
+    padding-left: 20px;
+}
+
+.image_picker_image {
+    max-width: 140px;
+    max-height: 100px;
+    background-color: #FF0000;
+}
